@@ -1,9 +1,3 @@
-# HASHTAG TREINAMENTOS
+# AULAS GRATUITAS
 
-Sobre
-
-Aprenda o que você precisa de Programação pra virar uma referência no mercado de trabalho
-Links
-
-Links
-bit.ly/links-yt-hashp
+Arquivos das aulas que assisti do CANAL HASHTAG
